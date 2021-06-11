@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1623452047 source:/home/angel/UTN/Github/laboratorio1-20211c/Semana 13/Juego/funciones.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+	"dado.h"
+
+1623451933 /home/angel/UTN/Github/laboratorio1-20211c/Semana 13/Juego/funciones.h
+
+1623452097 source:/home/angel/UTN/Github/laboratorio1-20211c/Semana 13/Juego/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	"dado.h"
+
+1623445583 /home/angel/UTN/Github/laboratorio1-20211c/Semana 13/Juego/dado.h
+
+1623445717 source:/home/angel/UTN/Github/laboratorio1-20211c/Semana 13/Juego/dado.cpp
+	<iostream>
+	"rlutil.h"
+
+1604095255 /home/angel/UTN/Github/laboratorio1-20211c/Semana 13/Juego/rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
